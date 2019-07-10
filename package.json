@@ -1,0 +1,14 @@
+{
+  "name": "salzerdesktop",
+  "version": "1.0.0",
+  "description": "salzer desktop application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^5.0.6"
+  }
+}
